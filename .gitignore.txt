@@ -1,0 +1,29 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Rider
+.idea/
+
+# Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Publish folder
+publish/
+
+# dotenv / secrets (if you have them)
+appsettings.*.json
+secrets.json
+
+# Rider / ReSharper caches
+_ReSharper*/

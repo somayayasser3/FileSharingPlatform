@@ -1,0 +1,857 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Smart Solutions Task\\FileSharingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\controllers\\sharelinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:controllers\\sharelinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\controllers\\foldercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:controllers\\foldercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\isharelinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\isharelinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\ifolderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\ifolderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\helpers\\sharelinkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:helpers\\sharelinkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\sharelinkdtos\\sharelinkeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\sharelinkdtos\\sharelinkeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\sharelinkdtos\\createsharelinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\sharelinkdtos\\createsharelinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\iffilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\iffilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\folderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\folderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\folderdtos\\folderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\folderdtos\\folderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\foldersandfileslistingdtos\\folderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\foldersandfileslistingdtos\\folderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\foldersandfileslistingdtos\\folderitemsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\foldersandfileslistingdtos\\folderitemsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\ifolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\ifolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\userdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\userdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\filedtos\\fileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\filedtos\\fileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\filedtos\\uploadfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\filedtos\\uploadfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\folderdtos\\createfolderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\folderdtos\\createfolderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\userdtos\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\userdtos\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\userdtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\userdtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\folderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\folderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\sharelinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\sharelinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\ffilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\ffilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\migrations\\20251130171325_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:migrations\\20251130171325_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\models\\ffile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:models\\ffile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\models\\publicsharelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:models\\publicsharelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|d:\\smart solutions task\\filesharingplatform\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB5B10E-0A5D-47DC-9DEE-8E1F41E574E6}|FileSharingPlatform.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T18:30:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicController.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "Controllers\\PublicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:56:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Controllers\\FileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:35:30.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:52:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FolderController.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\FolderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FolderController.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\FolderController.cs",
+              "RelativeToolTip": "Controllers\\FolderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:31:09.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T16:49:45.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShareLinkController.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\ShareLinkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShareLinkController.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\ShareLinkController.cs",
+              "RelativeToolTip": "Controllers\\ShareLinkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:00:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:28:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:27:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:33:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:27:19.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShareLinkHelper.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Helpers\\ShareLinkHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ShareLinkHelper.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Helpers\\ShareLinkHelper.cs",
+              "RelativeToolTip": "Helpers\\ShareLinkHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:31:55.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShareLinkRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IShareLinkRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IShareLinkRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IShareLinkRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IShareLinkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:26:42.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFolderRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IFolderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IFolderRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IFolderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IFolderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:13:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShareLinkeResponseDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\ShareLinkDTOs\\ShareLinkeResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ShareLinkDTOs\\ShareLinkeResponseDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\ShareLinkDTOs\\ShareLinkeResponseDto.cs",
+              "RelativeToolTip": "DTOs\\ShareLinkDTOs\\ShareLinkeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:12:20.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateShareLinkDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\ShareLinkDTOs\\CreateShareLinkDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ShareLinkDTOs\\CreateShareLinkDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\ShareLinkDTOs\\CreateShareLinkDto.cs",
+              "RelativeToolTip": "DTOs\\ShareLinkDTOs\\CreateShareLinkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:12:19.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:04:19.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IFileService.cs",
+              "RelativeDocumentMoniker": "Services\\IFileService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IFileService.cs",
+              "RelativeToolTip": "Services\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:04:18.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FolderService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\FolderService.cs",
+              "RelativeDocumentMoniker": "Services\\FolderService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\FolderService.cs",
+              "RelativeToolTip": "Services\\FolderService.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAkwJEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:43:01.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FolderResponseDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FolderDTOs\\FolderResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FolderDTOs\\FolderResponseDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FolderDTOs\\FolderResponseDto.cs",
+              "RelativeToolTip": "DTOs\\FolderDTOs\\FolderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:50:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFFileRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IFFileRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IFFileRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IFFileRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IFFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:19:43.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:40:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFolderService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IFolderService.cs",
+              "RelativeDocumentMoniker": "Services\\IFolderService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IFolderService.cs",
+              "RelativeToolTip": "Services\\IFolderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:43:01.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FolderItemsResponseDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FoldersAndFilesListingDTOs\\FolderItemsResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FoldersAndFilesListingDTOs\\FolderItemsResponseDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FoldersAndFilesListingDTOs\\FolderItemsResponseDto.cs",
+              "RelativeToolTip": "DTOs\\FoldersAndFilesListingDTOs\\FolderItemsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:59:35.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FolderItemDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FoldersAndFilesListingDTOs\\FolderItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FoldersAndFilesListingDTOs\\FolderItemDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FoldersAndFilesListingDTOs\\FolderItemDto.cs",
+              "RelativeToolTip": "DTOs\\FoldersAndFilesListingDTOs\\FolderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:59:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:40:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTOs\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserDTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:34:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:31:17.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:31:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JWTHelper.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Helpers\\JWTHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\JWTHelper.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Helpers\\JWTHelper.cs",
+              "RelativeToolTip": "Helpers\\JWTHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:17:31.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileResponseDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FileDTOs\\FileResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FileDTOs\\FileResponseDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FileDTOs\\FileResponseDto.cs",
+              "RelativeToolTip": "DTOs\\FileDTOs\\FileResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:54:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UploadFileDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FileDTOs\\UploadFileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FileDTOs\\UploadFileDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FileDTOs\\UploadFileDto.cs",
+              "RelativeToolTip": "DTOs\\FileDTOs\\UploadFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:54:55.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateFolderDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FolderDTOs\\CreateFolderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FolderDTOs\\CreateFolderDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\FolderDTOs\\CreateFolderDto.cs",
+              "RelativeToolTip": "DTOs\\FolderDTOs\\CreateFolderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:50:31.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterResponseDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\RegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTOs\\RegisterResponseDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\RegisterResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserDTOs\\RegisterResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:46:04.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTOs\\UserProfileDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\UserProfileDto.cs",
+              "RelativeToolTip": "DTOs\\UserDTOs\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:37:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\UserDTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:37:55.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\DTOs\\UserDTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserDTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:37:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShareLinkRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\ShareLinkRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ShareLinkRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\ShareLinkRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ShareLinkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:26:42.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FolderRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\FolderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FolderRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\FolderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FolderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:13:36.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FFileRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\FFileRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FFileRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\FFileRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FFileRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:19:43.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:07:59.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:07:59.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:47:23.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:46:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251130171325_Initial.Designer.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Migrations\\20251130171325_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130171325_Initial.Designer.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Migrations\\20251130171325_Initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20251130171325_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:26:08.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:41:05.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PublicShareLink.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\PublicShareLink.cs",
+              "RelativeDocumentMoniker": "Models\\PublicShareLink.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\PublicShareLink.cs",
+              "RelativeToolTip": "Models\\PublicShareLink.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:38:21.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FFile.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\FFile.cs",
+              "RelativeDocumentMoniker": "Models\\FFile.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\FFile.cs",
+              "RelativeToolTip": "Models\\FFile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:53:52.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "Models\\Folder.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\Folder.cs",
+              "RelativeToolTip": "Models\\Folder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:53:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Smart Solutions Task\\FileSharingPlatform\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:53:50.879Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1045,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1008,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1045,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
