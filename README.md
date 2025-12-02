@@ -28,7 +28,7 @@ A RESTful API for a file sharing platform built with ASP.NET Core, Entity Framew
 ## 🛠 Technologies Used
 
 - **Framework:** ASP.NET Core 8.0 / .NET 8.0
-- **Database:** SQL Server (LocalDB/Express)
+- **Database:** SQL Server
 - **ORM:** Entity Framework Core 8.0
 - **Authentication:** JWT Bearer Tokens
 - **Password Hashing:** BCrypt.Net-Next
@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 ## 🚀 Installation & Setup
 
 ### Step 1: Clone or Download the Project
-git clone https://github.com/yourusername/FileSharePlatform.git
+git clone https://github.com/somayayasser3/FileSharePlatform.git
 cd FileSharePlatform
 
 ### Step 2: Open in Visual Studio
